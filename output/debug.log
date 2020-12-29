@@ -1,0 +1,26 @@
+{"level":"info","time":"2020-12-07T22:28:32.427+0530","file":"go_auth/main.go:32","message":"Started running on http://localhost:9090"}
+{"level":"info","time":"2020-12-07T22:28:55.887+0530","file":"services/common.go:30","message":"https://accounts.google.com/o/oauth2/auth"}
+{"level":"info","time":"2020-12-07T22:28:55.889+0530","file":"services/common.go:39","message":"https://accounts.google.com/o/oauth2/auth?client_id=959905424564-t6vn6ehtundv4nrk1kf1bralt63a71t5.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A9090%2Fcallback-gl&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&state=A+String+Very+Very+Very+Niubilty%21%21%40%23%23%24%21%40%234"}
+{"level":"info","time":"2020-12-07T22:31:49.986+0530","file":"services/google.go:46","message":"Callback-gl.."}
+{"level":"info","time":"2020-12-07T22:31:49.987+0530","file":"services/google.go:49","message":""}
+{"level":"info","time":"2020-12-07T22:31:49.988+0530","file":"services/google.go:51","message":"invalid oauth state, expected A String Very Very Very Niubilty!!@##$!@#4, got \n"}
+{"level":"info","time":"2020-12-07T22:31:58.520+0530","file":"services/google.go:46","message":"Callback-gl.."}
+{"level":"info","time":"2020-12-07T22:31:58.520+0530","file":"services/google.go:49","message":""}
+{"level":"info","time":"2020-12-07T22:31:58.521+0530","file":"services/google.go:51","message":"invalid oauth state, expected A String Very Very Very Niubilty!!@##$!@#4, got \n"}
+{"level":"info","time":"2020-12-07T22:33:43.482+0530","file":"services/common.go:30","message":"https://accounts.google.com/o/oauth2/auth"}
+{"level":"info","time":"2020-12-07T22:33:43.483+0530","file":"services/common.go:39","message":"https://accounts.google.com/o/oauth2/auth?client_id=959905424564-t6vn6ehtundv4nrk1kf1bralt63a71t5.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A9090%2Fcallback-gl&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&state=A+String+Very+Very+Very+Niubilty%21%21%40%23%23%24%21%40%234"}
+{"level":"info","time":"2020-12-07T22:35:44.065+0530","file":"services/common.go:30","message":"https://accounts.google.com/o/oauth2/auth"}
+{"level":"info","time":"2020-12-07T22:35:44.066+0530","file":"services/common.go:39","message":"https://accounts.google.com/o/oauth2/auth?client_id=959905424564-t6vn6ehtundv4nrk1kf1bralt63a71t5.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A9090%2Fcallback-gl&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&state=A+String+Very+Very+Very+Niubilty%21%21%40%23%23%24%21%40%234"}
+{"level":"info","time":"2020-12-07T22:38:26.324+0530","file":"go_auth/main.go:32","message":"Started running on http://localhost:9090"}
+{"level":"info","time":"2020-12-07T22:38:49.415+0530","file":"services/common.go:30","message":"https://accounts.google.com/o/oauth2/auth"}
+{"level":"info","time":"2020-12-07T22:38:49.416+0530","file":"services/common.go:39","message":"https://accounts.google.com/o/oauth2/auth?client_id=959905424564-t6vn6ehtundv4nrk1kf1bralt63a71t5.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A9090%2Fcallback-gl&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&state=thisshouldberandom"}
+{"level":"info","time":"2020-12-29T19:21:40.340+0530","file":"go_auth/main.go:32","message":"Started running on http://localhost:9090"}
+{"level":"info","time":"2020-12-29T19:21:47.799+0530","file":"services/common.go:30","message":"https://accounts.google.com/o/oauth2/auth"}
+{"level":"info","time":"2020-12-29T19:21:47.800+0530","file":"services/common.go:39","message":"https://accounts.google.com/o/oauth2/auth?client_id=959905424564-t6vn6ehtundv4nrk1kf1bralt63a71t5.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A9090%2Fcallback-gl&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&state=thisshouldberandom"}
+{"level":"info","time":"2020-12-29T19:21:51.962+0530","file":"services/google.go:46","message":"Callback-gl.."}
+{"level":"info","time":"2020-12-29T19:21:51.962+0530","file":"services/google.go:49","message":"thisshouldberandom"}
+{"level":"info","time":"2020-12-29T19:21:51.963+0530","file":"services/google.go:57","message":"4/0AY0e-g5QJznqj4cj6e00mATeQUmrKU-NIrwnf64BQvR5giB80-6jl8mjTSMw9dD-K5oRFA"}
+{"level":"info","time":"2020-12-29T19:22:00.654+0530","file":"services/google.go:74","message":"TOKEN>> AccessToken>> ya29.a0AfH6SMDZJAPehML5x9mFeb3CSirJCAVyqe0UREAPlSXdaTkgRUAFIbO6rk7S_vFakNigaImN_XYsJb-E0WaOdz608_1HSFOJN6y0DM3-afbRLJyAe1KsIBwMm2ToGrGd36hDP6vdmODrQxaN-Ya9dIi5Tw2e6H36HCDI4ea_TQQ"}
+{"level":"info","time":"2020-12-29T19:22:00.655+0530","file":"services/google.go:75","message":"TOKEN>> Expiration Time>> 2020-12-29 20:21:59.654797 +0530 IST m=+3619.319696801"}
+{"level":"info","time":"2020-12-29T19:22:00.655+0530","file":"services/google.go:76","message":"TOKEN>> RefreshToken>> "}
+{"level":"info","time":"2020-12-29T19:22:01.221+0530","file":"services/google.go:93","message":"parseResponseBody: {\n  \"id\": \"112708972485637860988\",\n  \"email\": \"vishalgupta9596@gmail.com\",\n  \"verified_email\": true,\n  \"picture\": \"https://lh3.googleusercontent.com/a-/AOh14GihQ5ZQ07Jg4UlhPam-vJbqfjBum9WTTwDJSGLuaw=s96-c\"\n}\n\n"}
